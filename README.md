@@ -1,4 +1,4 @@
-# Image-Segmentation-Using-Mask-R-CNN
+# Segmentation-Using-Mask-R-CNN
 Image and video segmentation using Mask R-CNN on forklift dataset.
 
 
